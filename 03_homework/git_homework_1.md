@@ -20,6 +20,10 @@
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
 
+The URL is:
+https://github.com/anjali-deshpande-hub/githomework1
+The snapshots are in 'playing-with-bash' branch of this repository.
+
 ### Task 3
 1. Create a new branch called `playing-with-bash`
 2. Create 5 empty files with the names up to you
